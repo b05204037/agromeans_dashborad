@@ -372,7 +372,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-delay-gate",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-contrib-delay-gate/delay-gate/delay-gate.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-contrib-delay-gate/delay-gate/delay-gate.js"
     }
    }
   },
@@ -389,7 +389,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_base.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_base.js"
     },
     "ui_button": {
      "name": "ui_button",
@@ -399,7 +399,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_button.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_button.js"
     },
     "ui_dropdown": {
      "name": "ui_dropdown",
@@ -409,7 +409,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_dropdown.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_dropdown.js"
     },
     "ui_switch": {
      "name": "ui_switch",
@@ -419,7 +419,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_switch.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_switch.js"
     },
     "ui_slider": {
      "name": "ui_slider",
@@ -429,7 +429,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_slider.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_slider.js"
     },
     "ui_numeric": {
      "name": "ui_numeric",
@@ -439,7 +439,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_numeric.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_numeric.js"
     },
     "ui_text_input": {
      "name": "ui_text_input",
@@ -449,7 +449,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_text_input.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_text_input.js"
     },
     "ui_date_picker": {
      "name": "ui_date_picker",
@@ -459,7 +459,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_date_picker.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_date_picker.js"
     },
     "ui_colour_picker": {
      "name": "ui_colour_picker",
@@ -469,7 +469,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_colour_picker.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_colour_picker.js"
     },
     "ui_form": {
      "name": "ui_form",
@@ -479,7 +479,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_form.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_form.js"
     },
     "ui_text": {
      "name": "ui_text",
@@ -489,7 +489,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_text.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_text.js"
     },
     "ui_gauge": {
      "name": "ui_gauge",
@@ -499,7 +499,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_gauge.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_gauge.js"
     },
     "ui_chart": {
      "name": "ui_chart",
@@ -509,7 +509,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_chart.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_chart.js"
     },
     "ui_audio": {
      "name": "ui_audio",
@@ -519,7 +519,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_audio.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_audio.js"
     },
     "ui_toast": {
      "name": "ui_toast",
@@ -529,7 +529,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_toast.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_toast.js"
     },
     "ui_ui_control": {
      "name": "ui_ui_control",
@@ -539,7 +539,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_ui_control.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_ui_control.js"
     },
     "ui_template": {
      "name": "ui_template",
@@ -549,7 +549,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_template.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_template.js"
     },
     "ui_link": {
      "name": "ui_link",
@@ -559,7 +559,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_link.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_link.js"
     },
     "ui_tab": {
      "name": "ui_tab",
@@ -569,7 +569,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_tab.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_tab.js"
     },
     "ui_group": {
      "name": "ui_group",
@@ -579,7 +579,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_group.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_group.js"
     },
     "ui_spacer": {
      "name": "ui_spacer",
@@ -589,7 +589,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-dashboard",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-dashboard/nodes/ui_spacer.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-dashboard/nodes/ui_spacer.js"
     }
    }
   },
@@ -606,7 +606,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-node-base64",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-node-base64/70-base64.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-node-base64/70-base64.js"
     }
    }
   },
@@ -625,7 +625,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-node-email",
-     "file": "/home/azureuser/node-red/node-red-2000/3400port/node_modules/node-red-node-email/61-email.js"
+     "file": "/home/azureuser/node-red/node-red-2000/2900port/node_modules/node-red-node-email/61-email.js"
     }
    }
   },
