@@ -282,7 +282,8 @@ module.exports = {
         // jfive:require("johnny-five"),
         // j5board:require("johnny-five").Board({repl:false})
     	fs:require('fs'),
-	stream:require('stream')
+	stream:require('stream'),
+	port:'3500'
     },
     // `global.keys()` returns a list of all properties set in global context.
     // This allows them to be displayed in the Context Sidebar within the editor.

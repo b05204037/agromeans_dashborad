@@ -5,6 +5,7 @@
     "private": true,
     "dependencies": {
         "node-red-contrib-delay-gate": "~1.0.0",
+        "node-red-contrib-ui-media": "~1.2.0",
         "node-red-dashboard": "~2.26.1",
         "node-red-node-base64": "~0.3.0",
         "node-red-node-email": "~1.12.0"
