@@ -15,7 +15,7 @@
  **/
 
 // config the device name
-var farmName = 'farmtest';
+var farmName = 'farm7';
 var nodeName = 'node1';
 
 // function name of the mqtt
@@ -283,7 +283,7 @@ module.exports = {
         // j5board:require("johnny-five").Board({repl:false})
     	fs:require('fs'),
 	stream:require('stream'),
-	port:'3500'
+	port:'2900'
     },
     // `global.keys()` returns a list of all properties set in global context.
     // This allows them to be displayed in the Context Sidebar within the editor.
